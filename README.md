@@ -1,4 +1,6 @@
 # go-ping
+forked from https://github.com/go-ping/ping
+
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/go-ping/ping)](https://pkg.go.dev/github.com/go-ping/ping)
 [![Circle CI](https://circleci.com/gh/go-ping/ping.svg?style=svg)](https://circleci.com/gh/go-ping/ping)
 

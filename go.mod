@@ -1,6 +1,6 @@
-module github.com/go-ping/ping
+module github.com/turtletramp/ping
 
-go 1.14
+go 1.16
 
 require (
 	github.com/google/uuid v1.2.0
